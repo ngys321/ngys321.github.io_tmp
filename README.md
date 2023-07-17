@@ -94,8 +94,8 @@ Right aligned columns
 
 [link text](https://www.naver.com)
 
-[link with title](https://github.com/ngys321/ngys321.github.io/"title text!")
+[link with title](https://github.com/ngys321/ngys321.github.io/ "title text!")
 
 ## Images
 
-![Minion](https://github.com/ngys321/ngys321.github.io/images/jeju.png)
+[Minion](https://github.com/ngys321/ngys321.github.io/images/jeju.png)
