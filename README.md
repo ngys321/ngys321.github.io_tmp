@@ -8,7 +8,7 @@
 
 ## Horizontal Rules
 
-___
+__
 
 ## Emphasis
 
