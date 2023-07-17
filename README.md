@@ -49,7 +49,7 @@ Ordered
 
 ## Code
 
-Inline 'code'
+Inline `code`
 
 Indented code
 
