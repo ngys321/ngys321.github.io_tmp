@@ -98,4 +98,4 @@ Right aligned columns
 
 ## Images
 
-[Minion](https://github.com/ngys321/ngys321.github.io/images/jeju.png)
+[Minion](https://github.com/ngys321/ngys321.github.io/blob/main/images/jeju.png)
