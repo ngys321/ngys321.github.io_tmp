@@ -66,7 +66,7 @@ Sample text here...
 
 Syntax highlighting
 
-```js
+```py
 var foo = function (bar) {
   return bar++;
 };
