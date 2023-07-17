@@ -73,3 +73,9 @@ var foo = function (bar) {
 
 console.log(foo(5));
 ```
+
+## Tables
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
